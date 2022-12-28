@@ -1,1 +1,8 @@
-utility functions for my version 1
+utility functions for git bash -->
+1. git status 			-> used to see the status of the git repository
+2. git init 			-> used to initialise the git
+3. git log 			-> used to see the changed made by whom and when
+4. git add .			-> used to push repository to the staging area
+5. git commit -m "version name" -> used for commiting the repository
+6. ls 				-> used to see all files inside this folder
+7. git config --global user.name-> used to set the name globally when you git log, it show the name and email.
