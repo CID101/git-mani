@@ -8,4 +8,7 @@ utility functions for git bash -->
 7. git config --global user.name-> used to set the name globally when you git log, it show the name and email.
 8. git push -u origin master  -> used to push the changed repository to the github.
 9. git pull origin master -> used to pull all the changes from the github.
-10. git remote add origin git@github.com:CID101/repositoryname.git	-> used to link the gitbash to github
+10. git remote add origin git@github.com:CID101/repositoryname.git	-> used to link the gitbash to github.
+11. git diff -> used to show difference in the changed file.
+12. git diff filename -> show detailed differnce in the changed file.
+13. git diff --staged filename -> show difference when the file is in staging area.
