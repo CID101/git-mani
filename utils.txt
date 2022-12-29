@@ -20,3 +20,5 @@
 18. git branch branchname	-> creates a branch
 19. git checkout branchname	-> shift to a branch.
 20. git merge branchname	-> merge a branch to other.
+21. git branch --d branchname	-> delete branch from local.
+22. git push --delete origin branchname->delete branch from github.
