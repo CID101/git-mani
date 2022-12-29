@@ -15,3 +15,8 @@
 13. git diff --staged filename 	-> show difference when the file is in staging area.
 14. git reset filename 		-> used to take back the file to previous state from staged state
 15. git checkout filename	-> used to checkout the file.
+16. git checkout .		-> used to take back the file to previous state (not from staged state).
+17. git branch			-> show all branches
+18. git branch branchname	-> creates a branch
+19. git checkout branchname	-> shift to a branch.
+20. git merge branchname	-> merge a branch to other.
